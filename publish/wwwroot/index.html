@@ -9,6 +9,7 @@
     <script src="_framework/blazor.webassembly.js"></script>
     <script src="customElements.js"></script>
     <script>
+        console.log("Controle: script wordt uitgevoerd tot boven Blazor.start()");
         Blazor.start().then(() => {
             console.log("Blazor is gestart");
             registerBlazorCounter();
