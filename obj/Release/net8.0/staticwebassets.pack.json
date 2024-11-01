@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\weComponentDeployment.styles.css"
     },
     {
+      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\JavaScript\\CustomElements.js",
+      "PackagePath": "staticwebassets\\JavaScript\\CustomElements.js"
+    },
+    {
       "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

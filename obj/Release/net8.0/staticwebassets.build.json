@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "c0mWR9wudnC/DZRMmX5Gqc5YiD+31t9wwFlOzmtrXeQ=",
+  "Hash": "Lx6xPCmq+xqZAPALmbuuFdd2M5DgOf/AdeP/cXUSj7w=",
   "Source": "weComponentDeployment",
   "BasePath": "/",
   "Mode": "Root",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\jorick\\.nuget\\packages\\quick.aspnetcore.components.web.extensions\\6.0.2\\staticwebassets\\headManager.js",
+      "SourceId": "Quick.AspNetCore.Components.Web.Extensions",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\jorick\\.nuget\\packages\\quick.aspnetcore.components.web.extensions\\6.0.2\\staticwebassets\\",
+      "BasePath": "_content/Quick.AspNetCore.Components.Web.Extensions",
+      "RelativePath": "headManager.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jorick\\.nuget\\packages\\quick.aspnetcore.components.web.extensions\\6.0.2\\staticwebassets\\headManager.js"
+    },
     {
       "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "weComponentDeployment",
@@ -281,6 +300,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Release\\net8.0\\webcil\\Microsoft.AspNetCore.Components.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.Extensions.wasm",
+      "SourceId": "weComponentDeployment",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.Extensions.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Release\\net8.0\\webcil\\Microsoft.AspNetCore.Components.Web.Extensions.wasm"
     },
     {
       "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.wasm",
@@ -5337,6 +5375,25 @@
       "OriginalItemSpec": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tracing.wasm"
     },
     {
+      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Release\\net8.0\\compressed\\d5eye9u6df.gz",
+      "SourceId": "weComponentDeployment",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.Extensions.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.Extensions.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.Extensions.wasm"
+    },
+    {
       "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Release\\net8.0\\compressed\\d67n3npsye.gz",
       "SourceId": "weComponentDeployment",
       "SourceType": "Computed",
@@ -7919,6 +7976,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\JavaScript\\CustomElements.js",
+      "SourceId": "weComponentDeployment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "JavaScript/CustomElements.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JavaScript\\CustomElements.js"
     },
     {
       "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",

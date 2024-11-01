@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jorick/RiderProjects/weComponentDeployment/weComponentDeployment/Wrapper/CounterElement.razor]
+build_metadata.AdditionalFiles.TargetPath = V3JhcHBlclxDb3VudGVyRWxlbWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jorick/RiderProjects/weComponentDeployment/weComponentDeployment/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

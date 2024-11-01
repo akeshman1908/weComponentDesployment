@@ -435,6 +435,29 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
+      "Quick.AspNetCore.Components.Web.Extensions/6.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "6.0.2",
+          "Microsoft.JSInterop": "6.0.2"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Web.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Web.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Quick.AspNetCore.Components.Web.Extensions.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Quick.AspNetCore.Components.Web.Extensions.props": {}
+        }
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -925,6 +948,29 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "Quick.AspNetCore.Components.Web.Extensions/6.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "6.0.2",
+          "Microsoft.JSInterop": "6.0.2"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Web.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Web.Extensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/Quick.AspNetCore.Components.Web.Extensions.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/Quick.AspNetCore.Components.Web.Extensions.props": {}
         }
       },
       "System.IO.Pipelines/8.0.0": {
@@ -1912,6 +1958,25 @@
         "tools/net8.0/System.Windows.Extensions.dll"
       ]
     },
+    "Quick.AspNetCore.Components.Web.Extensions/6.0.2": {
+      "sha512": "ppLXEca1BL48Sgq0MZyBsQlH0TJXkqY8uqoXl4xv5mpJDBbft6aa4ACOQNztWXwjX0ry13ebDfQLQIgmfekK2w==",
+      "type": "package",
+      "path": "quick.aspnetcore.components.web.extensions/6.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "build/Quick.AspNetCore.Components.Web.Extensions.props",
+        "buildMultiTargeting/Quick.AspNetCore.Components.Web.Extensions.props",
+        "buildTransitive/Quick.AspNetCore.Components.Web.Extensions.props",
+        "lib/net6.0/Microsoft.AspNetCore.Components.Web.Extensions.dll",
+        "lib/net6.0/Microsoft.AspNetCore.Components.Web.Extensions.xml",
+        "quick.aspnetcore.components.web.extensions.6.0.2.nupkg.sha512",
+        "quick.aspnetcore.components.web.extensions.nuspec",
+        "staticwebassets/headManager.js"
+      ]
+    },
     "System.IO.Pipelines/8.0.0": {
       "sha512": "FHNOatmUq0sqJOkTx+UF/9YK1f180cnW5FVqnQMvYUN0elp6wFzbtPSiqbo1/ru8ICp43JM1i7kKkk6GsNGHlA==",
       "type": "package",
@@ -2055,7 +2120,8 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.8",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.8",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
-      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.8"
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 8.0.8",
+      "Quick.AspNetCore.Components.Web.Extensions >= 6.0.2"
     ]
   },
   "packageFolders": {
@@ -2123,6 +2189,10 @@
             "target": "Package",
             "version": "[8.0.8, )",
             "autoReferenced": true
+          },
+          "Quick.AspNetCore.Components.Web.Extensions": {
+            "target": "Package",
+            "version": "[6.0.2, )"
           }
         },
         "imports": [

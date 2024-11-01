@@ -1030,3 +1030,8 @@ C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Re
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\compressed\kv8mvksxsv.gz
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\compressed\7f86smiv4c.gz
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\compressed\gdi1euq7lf.gz
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Release\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.Extensions.wasm
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Release\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.Extensions.wasm.gz
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Release\net8.0\Microsoft.AspNetCore.Components.Web.Extensions.dll
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\webcil\Microsoft.AspNetCore.Components.Web.Extensions.wasm
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\compressed\d5eye9u6df.gz
