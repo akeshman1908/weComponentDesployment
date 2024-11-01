@@ -4,7 +4,7 @@
 RUN rm -rf /usr/share/nginx/html/*
 
 # Kopieer de gepubliceerde Blazor-app naar de Nginx HTML-directory
-COPY ./publish /usr/share/nginx/html
+COPY ./publish/wwwroot /usr/share/nginx/html
 
 # Kopieer de aangepaste Nginx-configuratie
 COPY nginx.conf /etc/nginx/conf.d/default.conf
