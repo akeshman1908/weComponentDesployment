@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "weComponentDeployment",
   "resources": {
-    "hash": "sha256-gN4DGerPlDH0xSjYRKWPMOVg4mfyXnr3g9J60gzQ7WA=",
+    "hash": "sha256-gaUUYDDXk1x8K+6IKKzQCiesW6cFdfP/c4cFIdHxBl4=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.35odsmqm2c.js": "sha256-hSocI2KeIhqnZ3dmDXL+yHUVpipxLHux0YMOtn6hOys="
     },
@@ -49,7 +49,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-MCv+5sGwYGikJ8D76raGF6L+02exyJcFgx2sVlUjmKk=",
       "System.Text.Json.wasm": "sha256-06a/d+2j+pqKjp9lLbyGYATd8HXETVninZtFk3HGSHE=",
       "System.Text.RegularExpressions.wasm": "sha256-8bujMNUMCuxn48zxE7AA6YYcbZJjv76LHEAtNjS6TuE=",
-      "weComponentDeployment.wasm": "sha256-MteKUh3/vcLjsrw0IsdABJCXoEUXv0q34zVJ+BPBbvo="
+      "weComponentDeployment.wasm": "sha256-qEy8r3xH63nfGnHw1qiU1L3UdXxCJ5gAbVnCNz9QT7A="
     }
   },
   "cacheBootResources": true,

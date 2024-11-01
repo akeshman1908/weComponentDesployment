@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Lx6xPCmq+xqZAPALmbuuFdd2M5DgOf/AdeP/cXUSj7w=",
+  "Hash": "seXLJQsVPwTEgw7U3ae7lnyGcH0RwFAX2aEFv+D6hoc=",
   "Source": "weComponentDeployment",
   "BasePath": "/",
   "Mode": "Root",
@@ -7978,12 +7978,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\JavaScript\\CustomElements.js",
+      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\JavaScript\\customElements.js",
       "SourceId": "weComponentDeployment",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "JavaScript/CustomElements.js",
+      "RelativePath": "JavaScript/customElements.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7994,7 +7994,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\JavaScript\\CustomElements.js"
+      "OriginalItemSpec": "wwwroot\\JavaScript\\customElements.js"
     },
     {
       "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",
