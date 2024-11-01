@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.AspNetCore.Components.Web.Extensions;
-using weComponentDeployment.Wrapper;
 using weComponentDeployment;
 using weComponentDeployment.Pages;
+using weComponentDeployment.wwwroot.Wrapper;
 
 
 var builder = WebAssemblyHostBuilder.CreateDefault(args);

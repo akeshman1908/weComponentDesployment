@@ -24,7 +24,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <AdditionalFiles Include="Wrapper\CounterElement.razor" />
+      <AdditionalFiles Include="wwwroot\Wrapper\CounterElement.razor" />
     </ItemGroup>
 
 </Project>
