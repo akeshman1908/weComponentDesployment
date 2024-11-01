@@ -20,6 +20,11 @@
       <_ContentIncludedByDefault Remove="publish\web.config" />
       <_ContentIncludedByDefault Remove="publish\wwwroot\sample-data\weather.json" />
       <_ContentIncludedByDefault Remove="publish\wwwroot\_framework\blazor.boot.json" />
+      <_ContentIncludedByDefault Remove="Wrapper\CounterElement.razor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="Wrapper\CounterElement.razor" />
     </ItemGroup>
 
 </Project>
