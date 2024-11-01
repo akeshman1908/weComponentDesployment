@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "weComponentDeployment",
   "resources": {
-    "hash": "sha256-/lKqsPXYNV3b+uRplc2bbpICtE/N+daJsR8bSeG4zYk=",
+    "hash": "sha256-7tqF25VW3u2D7KdpJuX6+FupOWG85dB2Bz4fjVbYjUI=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.93i67mqfmb.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "weComponentDeployment.wasm": "sha256-str3QehuZJCm98bsOc1rOpMuDLgA4anbXuJUvdqt2P4="
+      "weComponentDeployment.wasm": "sha256-m9KXUbk0hSZEbj3D+wFF11pYOIjFz8tojSYvWjBA+Oc="
     },
     "pdb": {
-      "weComponentDeployment.pdb": "sha256-wEdwxMlDpOCHoX1LX54cwFLyumDtGHl8pJ3Nfoi7ms4="
+      "weComponentDeployment.pdb": "sha256-AeSa+cakunaQVCVjhihidrXUS8MlXKJI9+/wiEpm8hk="
     }
   },
   "cacheBootResources": true,

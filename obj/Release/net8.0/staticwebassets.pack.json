@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\release\\net8.0\\compressed\\sc5t37v4a9.gz",
+      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Release\\net8.0\\compressed\\sc5t37v4a9.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\release\\net8.0\\scopedcss\\bundle\\weComponentDeployment.styles.css",
+      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Release\\net8.0\\scopedcss\\bundle\\weComponentDeployment.styles.css",
       "PackagePath": "staticwebassets\\weComponentDeployment.styles.css"
     },
     {
@@ -33,27 +33,23 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\index.html",
-      "PackagePath": "staticwebassets\\index.html"
-    },
-    {
       "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
-      "Id": "obj\\release\\net8.0\\staticwebassets\\msbuild.build.weComponentDeployment.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.weComponentDeployment.props",
       "PackagePath": "build\\weComponentDeployment.props"
     },
     {
-      "Id": "obj\\release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.weComponentDeployment.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.weComponentDeployment.props",
       "PackagePath": "buildMultiTargeting\\weComponentDeployment.props"
     },
     {
-      "Id": "obj\\release\\net8.0\\staticwebassets\\msbuild.buildTransitive.weComponentDeployment.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.weComponentDeployment.props",
       "PackagePath": "buildTransitive\\weComponentDeployment.props"
     },
     {
-      "Id": "obj\\release\\net8.0\\staticwebassets\\msbuild.weComponentDeployment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.weComponentDeployment.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     }
   ],

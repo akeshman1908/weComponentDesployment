@@ -1,1 +1,4 @@
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\publish\publish\web.config
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\publish\publish\wwwroot\sample-data\weather.json
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\publish\publish\wwwroot\_framework\blazor.boot.json
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\publish\web.config
