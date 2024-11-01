@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GKsY95KxAqw4GqkqZk1tkO+U+OkUd8hB8E/F4g9Ohqo=",
+  "Hash": "VwldHDfBop2/S/gjRnulPCCuG3NyhCA1s4gt6NN1xuQ=",
   "Source": "weComponentDeployment",
   "BasePath": "/",
   "Mode": "Root",
@@ -2637,6 +2637,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\sample-data\\weather.json"
+    },
+    {
+      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\Wrapper\\CounterElement.razor",
+      "SourceId": "weComponentDeployment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "Wrapper/CounterElement.razor",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Wrapper\\CounterElement.razor"
     }
   ]
 }

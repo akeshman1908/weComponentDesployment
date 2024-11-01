@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\JavaScript\\customElements.js"
     },
     {
+      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\Wrapper\\CounterElement.razor",
+      "PackagePath": "staticwebassets\\Wrapper\\CounterElement.razor"
+    },
+    {
       "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
