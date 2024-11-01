@@ -835,9 +835,6 @@ C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Re
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\refint\weComponentDeployment.dll
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\weComponentDeployment.pdb
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\ref\weComponentDeployment.dll
-C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Release\net8.0\publish\web.config
-C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Release\net8.0\publish\wwwroot\sample-data\weather.json
-C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Release\net8.0\publish\wwwroot\_framework\blazor.boot.json
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\weComponentDeployment.sourcelink.json
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\compressed\l3yodvgwbb.gz
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Release\net8.0\compressed\p5wxcz3lzq.gz

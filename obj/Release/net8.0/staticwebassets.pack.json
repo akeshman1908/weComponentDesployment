@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
       "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },

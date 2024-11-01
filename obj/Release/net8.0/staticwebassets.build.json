@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HSPPhxI1IR9uxVthy5WaGd5vP6Bx46U8kdpGxOVbZ68=",
+  "Hash": "c0mWR9wudnC/DZRMmX5Gqc5YiD+31t9wwFlOzmtrXeQ=",
   "Source": "weComponentDeployment",
   "BasePath": "/",
   "Mode": "Root",
@@ -7900,6 +7900,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\index.html",
+      "SourceId": "weComponentDeployment",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
       "Identity": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",
