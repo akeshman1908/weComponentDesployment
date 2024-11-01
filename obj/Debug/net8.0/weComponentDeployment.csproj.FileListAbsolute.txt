@@ -1029,3 +1029,7 @@ C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\De
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Debug\net8.0\refint\weComponentDeployment.dll
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Debug\net8.0\weComponentDeployment.pdb
 C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Debug\net8.0\ref\weComponentDeployment.dll
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Debug\net8.0\publish\web.config
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Debug\net8.0\publish\wwwroot\sample-data\weather.json
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\bin\Debug\net8.0\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\jorick\RiderProjects\weComponentDeployment\weComponentDeployment\obj\Debug\net8.0\weComponentDeployment.sourcelink.json
