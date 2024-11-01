@@ -7,7 +7,7 @@ RUN rm -rf /usr/share/nginx/html/*
 COPY ./publish/wwwroot /usr/share/nginx/html
 
 # Kopieer customElements.js naar de juiste map
-COPY ./publish/wwwroot/CustomElements.js /usr/share/nginx/html/CustomElements.js
+COPY ./publish/wwwroot/JavaScript/CustomElements.js /usr/share/nginx/html/CustomElements.js
 # Kopieer de aangepaste Nginx-configuratie
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
