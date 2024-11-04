@@ -1,43 +1,51 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Debug\\net8.0\\compressed\\sc5t37v4a9.gz",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\obj\\Debug\\net8.0\\compressed\\3c1wfzjf4g.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\obj\\Debug\\net8.0\\scopedcss\\bundle\\weComponentDeployment.styles.css",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\obj\\Debug\\net8.0\\scopedcss\\bundle\\weComponentDeployment.styles.css",
       "PackagePath": "staticwebassets\\weComponentDeployment.styles.css"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\JavaScript\\customElements.js",
+      "PackagePath": "staticwebassets\\JavaScript\\customElements.js"
+    },
+    {
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\Wrapper\\CounterElement.razor",
+      "PackagePath": "staticwebassets\\Wrapper\\CounterElement.razor"
+    },
+    {
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\index.html",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\jorick\\RiderProjects\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\david\\Desktop\\weComponentDeployment\\weComponentDeployment\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
